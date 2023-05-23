@@ -3,6 +3,7 @@ Kaggle Competition to Predict Diamond Price.
 
 ![image](https://github.com/EsraaFareha/Diamond-Price-Prediction/assets/112290483/624c1e6b-f454-45b0-a5c8-0054f674f063)
 
+Kaggle link: https://www.kaggle.com/code/esraafareha/diamond-price-prediction?scriptVersionId=130744737
 Describtion:
 Context
   This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
