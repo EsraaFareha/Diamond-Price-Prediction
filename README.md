@@ -1,7 +1,7 @@
 # Diamond-Price-Prediction
 Kaggle Competition to Predict Diamond Price.
-![image](https://github.com/EsraaFareha/Diamond-Price-Prediction/assets/112290483/624c1e6b-f454-45b0-a5c8-0054f674f063)
 
+![image](https://github.com/EsraaFareha/Diamond-Price-Prediction/assets/112290483/624c1e6b-f454-45b0-a5c8-0054f674f063)
 
 Describtion:
 Context
